@@ -19,6 +19,24 @@ header h3{
 	right: 10px;
 	font-size: 69px;
 }
+.about{
+	text-align: center;
+
+}
+
+.profile img{
+	display: inline;
+	width: 100%;
+}
+
+.profile {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+    position: relative;
+    margin: 50px  auto;
+}
 a{
 	color: inherit;
 	text-decoration: none;

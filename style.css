@@ -19,6 +19,9 @@ header h3{
 	right: 10px;
 	font-size: 69px;
 }
+
+/* about me */
+
 .about{
 	text-align: center;
 
@@ -30,7 +33,11 @@ header h3{
 }
 
 .profile {
-	border-radius: 50%;
+	border-top-right-radius: 50%;
+	border-top-left-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+
 	width: 200px;
 	height: 200px;
 	overflow: hidden;
